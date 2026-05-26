@@ -1,0 +1,15 @@
+C:\funcionesG6\funcion1\bin\Debug\net10.0\funcion1.exe
+C:\funcionesG6\funcion1\bin\Debug\net10.0\funcion1.deps.json
+C:\funcionesG6\funcion1\bin\Debug\net10.0\funcion1.runtimeconfig.json
+C:\funcionesG6\funcion1\bin\Debug\net10.0\funcion1.dll
+C:\funcionesG6\funcion1\bin\Debug\net10.0\funcion1.pdb
+C:\funcionesG6\funcion1\obj\Debug\net10.0\funcion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\funcionesG6\funcion1\obj\Debug\net10.0\funcion1.AssemblyInfoInputs.cache
+C:\funcionesG6\funcion1\obj\Debug\net10.0\funcion1.AssemblyInfo.cs
+C:\funcionesG6\funcion1\obj\Debug\net10.0\funcion1.csproj.CoreCompileInputs.cache
+C:\funcionesG6\funcion1\obj\Debug\net10.0\funcion1.sourcelink.json
+C:\funcionesG6\funcion1\obj\Debug\net10.0\funcion1.dll
+C:\funcionesG6\funcion1\obj\Debug\net10.0\refint\funcion1.dll
+C:\funcionesG6\funcion1\obj\Debug\net10.0\funcion1.pdb
+C:\funcionesG6\funcion1\obj\Debug\net10.0\funcion1.genruntimeconfig.cache
+C:\funcionesG6\funcion1\obj\Debug\net10.0\ref\funcion1.dll
